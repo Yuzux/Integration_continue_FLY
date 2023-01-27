@@ -13,5 +13,5 @@ jobs:
       with:
         server: files.000webhost.com
         username: stylenishizumi
-        password: Victor78
+        password: MihoNishizuni212
         server-dir : public_html/
