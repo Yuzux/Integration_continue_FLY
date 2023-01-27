@@ -12,6 +12,6 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
         server: files.000webhost.com
-        username: Integration-Continue-TPANA
-        password: 1GfVFf@NGFBBGu#nF@PD
+        username: groupenishizumi
+        password: yzFAUC6Y%T5sYlhyLTAH
         server-dir : public_html/
