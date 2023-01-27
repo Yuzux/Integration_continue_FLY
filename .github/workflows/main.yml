@@ -11,7 +11,7 @@ jobs:
     - name: Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
-        ftp-server: files.000webhost.com
-        username: stylenishizumi
-        password: MihoNishizumi212
+        server: files.000webhost.com
+        username: Integration-Continue-TPANA
+        password: 1GfVFf@NGFBBGu#nF@PD
         server-dir : public_html/
